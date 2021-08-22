@@ -292,7 +292,8 @@ class: top, center
 Leia o Capítulo I - [SOCIAL-ECOLOGICAL SYSTEM DYNAMICS: 
 PERCEPTION OF CHANGES AND RESPONSES IN AN 
 ARTISANAL FISHERS’ COMMUNITY IN SOUTHERN 
-BRAZIL]("https://repositorio.ufsc.br/bitstream/handle/123456789/189159/PECO0121-D.pdf?sequence=-1&isAllowed=y") e escreva um resumo crítico com até 800 palavras. Incorpore as alterações no sistema sócio-ecológico da Costa da Lagoa ocorridas no último ano e discuta sobre a resiliência deste sistema.
+BRAZIL]("https://repositorio.ufsc.br/bitstream/handle/123456789/189159/PECO0121-D.pdf?sequence=-1&isAllowed=y") 
+e escreva um resumo crítico com até 800 palavras. Incorpore as alterações no sistema sócio-ecológico da Costa da Lagoa ocorridas no último ano e discuta sobre a resiliência deste sistema.
 
 ---
 # Outras referências e leituras complementares
