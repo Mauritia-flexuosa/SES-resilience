@@ -1,0 +1,327 @@
+---
+title: "Resiliência de Sistemas Sócio-Ecológicos"
+subtitle: "Sistemas naturais e humanos integrados"
+author: "Marcio Baldissera Cure"
+institute: "PPG Ecologia - UFSC"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    chakra: libs/remark-latest.min.js
+    css: ["uo", "rutgers-fonts", "marcio.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      
+---
+class: top, center
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r webcam, echo=FALSE, include= TRUE}
+xaringanExtra::use_webcam()
+```
+
+```{r xaringan_themes, echo = FALSE, include=FALSE}
+	names(xaringan:::list_css())
+```
+
+```{r broadcast, echo=FALSE}
+xaringanExtra::use_broadcast()
+```
+
+
+# Sumário
+
+.left[
+
+
+1. Sistemas complexos e dinâmicos
+2. Resiliência Ecológica
+3. Sistemas sócio-ecológicos
+4. Comunidades tradicionais
+5. Conhecimento Ecológico local/tradicional
+6. Ciclo adaptativo
+7. Panarquia
+
+]
+
+.center[<img width="33%" src="https://cirandapoetrix.com.br/storage/yHteY0yfIk4FcaE9lEPvQmsQ8VhPJYRLQ7iHbIjF.jpeg"/>
+]
+
+
+---
+class: top, center
+
+# Sistemas dinâmicos
+
+.left[
+
+### Dinâmico
+
+- Muda com o tempo
+
+]
+
+.center[
+
+<img width="33%" src="https://m.media-amazon.com/images/I/51xgITnpd+L.jpg"/>
+<img width="55%" src="http://1.bp.blogspot.com/-ghv97fzjEvI/UoUfKNiguHI/AAAAAAAAAEw/iwRx7-lcY70/s200/johannes-kepler.jpg"/>
+
+]
+
+---
+class: top, center 
+
+# Dinâmico e complexo
+
+.left[
+
+### Complexo
+
+- Formado por múltiplos elementos que interagem entre si.
+]
+
+<img width="63%" src="https://evgenii.com/image/blog/2018-09-27-three-body-problem-simulator/010_coordinate_system.png"/>
+
+
+*Modelos lineares não levam em conta interações*
+
+---
+class: top, left
+
+# Solução qualitativa
+##Soluções simples para problemas complexos
+
+- Henri Poincaré: Informações a respeito do comportamento e propriedades de sistemas complexos.
+
+.center[
+<img width="63%" src="https://www.researchgate.net/profile/Rodrigo-Ricco/publication/309002188/figure/fig11/AS:670116907851787@1536779729797/Figura-6-Secao-de-Poincare-do-atrator-do-circuito-de-Roessler-afim-por-partes-para-o.jpg"/>
+]
+
+---
+
+# Resiliência ecológica
+
+### Conceito que ajuda a descrever e entender a dinâmica de sistemas complexos.
+
+- Capacidade que os sistemas possuem de absorver impactos antes de colapsar para um estado alternativo de funcionamento
+
+- Estados alternativos
+
+- Capacidade de auto organização de um sistema (feedbacks)
+
+.center[
+<img width="43%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Buzz_Holling.jpg/220px-Buzz_Holling.jpg"/>
+
+C. S. Holling]
+
+Resilience and Stability of Ecological Systems (1973):  https://www.annualreviews.org/doi/10.1146/annurev.es.04.110173.000245
+
+---
+# Representação gráfica intuitiva
+
+- Modelo Eurístico
+
+- Duas formas de mudar para um estado alternativo: 1. Impactos pontuais; 2. erosão da resiliência.
+
+.center[
+
+<img width="63%" src="https://www.researchgate.net/profile/Joy-Mast/publication/255970798/figure/fig1/AS:298000120336394@1448060173639/An-example-of-the-ball-and-cup-heuristic-used-in-resilience-theory-The-top-landscape.png"/>
+
+]
+
+---
+# Resiliência da Engenharia *vs* Resiliência Ecológica
+
+- Após uma perturbação, sistemas demoram certo tempo para retornar para seu estado original.
+
+- Comumente medida como o **tempo de retorno**
+
+.center[
+<img width="40%" src="https://www.researchgate.net/profile/Zoe-Lindo/publication/276464215/figure/fig1/AS:294598330077185@1447249123209/Engineering-and-Ecological-Resilience-Represented-with-the-Heuristic-Model-of-a-Ball.png"/>
+
+
+]
+
+---
+# Exemplos de florestas e savannas
+
+Florestas e savannas são estados alternativos determinados parcialmente pelo regime de chuvas.
+
+.center[
+<img width="65%" src="https://science.sciencemag.org/content/sci/334/6053/232/F1.large.jpg"/>
+<img width="30%" src="https://science.sciencemag.org/content/sci/334/6053/232/F3.large.jpg"/>
+
+Hirota et al (2011) - Science: https://science.sciencemag.org/content/334/6053/232
+
+]
+
+---
+# Ciclo adaptativo
+
+- Outro modelo eurístico descrevendo dinâmica de sistemas
+
+- Quatro fases
+
+.center[
+<img width="65%" src="https://www.resalliance.org/files/key-concepts/Adaptive_Cycle.jpg"/>
+]
+
+---
+# Panarquia
+
+- Ciclos adaptativos aninhados
+
+- Conexão entre sistemas em escalas diferentes de tempo e espaço
+
+.center[
+<img width="65%" src="https://www.resalliance.org/files/key-concepts/Panarchy.jpg"/>
+]
+
+
+---
+# Sistemas sócio-ecológicos (SSE)
+
+## Sistemas que integram ser humano e a natureza de forma indissociável.
+
+### O que conecta os elementos humanos e naturais?
+
+- Serviços ecossistêmicos
+
+- Técnicas de manejo, regras e organizações
+
+- Conhecimento Ecológico Local/Tradicional
+
+.center[
+
+<img width="60%" src="https://ars.els-cdn.com/content/image/1-s2.0-S2212682114000195-gr1.jpg"/>
+
+]
+
+---
+class: top, left
+
+# Conhecimento Ecológico Local/Tradicional
+
+- Arcabouço de conhecimento de indivíduos de um determinado local
+
+- Baseado na observação e manejo da natureza
+
+- Geralmente passado de geração para geração (longo tempo de observação)
+
+- Pessoas podem identificar mudanças, padrões, elementos locais e suas funções
+
+.center[
+<img width="62%" src="https://static.ndmais.com.br/2015/01/10-01-2015-12-14-19-barqueiros-costa-da-lagoa-florianopolis.jpg"/>
+]
+
+---
+# Resiliência de Sistemas Sócio-Ecológicos
+
+### 1. Interação entre o disturbio, reorganização, sustentabilidade e desenvolvimento
+
+### 2. Foca na capacidade adaptativa, na transformabilidade, no aprendizado e nas inovações
+
+
+- Transformabilidade é a capacidade de criar um novo sistema com uma nova
+maneira de viver
+
+- Adaptabilidade é a capacidade que o sistema possui de controlar a
+resiliência, ou seja, lidar e se adaptar aos impactos.
+
+
+---
+class: top, center
+
+# Estudo de caso na Ilha de Santa Catarina como exemplo de SSE
+.left[
+
+- Comunidade tradicional de pescadores artesanais
+
+- Como mudou o sistema sócio-ecológico (elementos humanos e naturais)
+
+- Percepção sobre as mudanças climáticas
+
+]
+
+.center[
+
+<img width="32%" src="https://destinoalgum.com.br/wp-content/uploads/2016/12/alt-destino-algum-costa-lagoa.jpg"/>
+<img width="32%" src="https://hweb-upload.s3.sa-east-1.amazonaws.com/5c5eeb88c19a3dcc7810f3ed/b7d56a46a7f347098317fa515994bc83.JPG"/>
+<img width="34%" src="http://www.pmf.sc.gov.br/arquivos/imagens/17_12_2009_20_59_412e219d38a5b364003d75609d64e94f.jpg"/>
+
+]
+
+---
+# SOCIAL-ECOLOGICAL SYSTEM DYNAMICS: PERCEPTION OF CHANGES AND RESPONSES IN AN ARTISANAL FISHERS’ COMMUNITY IN SOUTHERN BRAZIL 
+
+- Como a comunidade da Costa da Lagoa mudou desde a década de 1980 até os dias atuais?  *(no caso, era 2016)*
+
+- Por exemplo...
+
+.center[
+<img width="53%" src="fig/inovação.png"/>
+]
+
+---
+# Efeito cascata e feedbacks
+
+- Todos os aspectos percebidos pelas pessoas e as conexões entre as mudanças
+
+.center[
+<img width="68%" src="fig/efeitos cascata.png"/>
+]
+
+---
+# Quadro com mudanças
+
+.center[
+<img width="88%" src="fig/quadro mudanças.png"/>
+]
+
+---
+# Índice de extremos climáticos de temperatura
+
+.center[
+<img width="88%" src="fig/Temperatura extremos.png"/>
+]
+---
+# Índice de extremos climáticos de precipitação
+
+.center[
+<img width="88%" src="fig/Precipitação extremos.png"/>
+]
+
+---
+# Percepção sobre as mudanças na precipitação e na temperatura
+
+ - Informantes chave vs outros informantes
+
+.center[ 
+ <img width="88%" src="fig/informantes chave.png"/>
+]
+---
+# Outras referências e leituras complementares
+
+- **Base matemática** -> Non-linear dynamics and chaos: http://arslanranjha.weebly.com/uploads/4/8/9/3/4893701/nonlinear-dynamics-and-chaos-strogatz.pdf
+
+- Principles for Building Resilience: Sustaining Ecosystem Services in Social-Ecological Systems: https://br1lib.org/book/2761925/95b777?id=2761925&secret=95b777
+
+- Generic Indicators of Ecological Resilience: Inferring the Chance of a Critical Transition: https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-112414-054242
+
+- Understanding the Complexity of Economic, Ecological, and Social Systems: https://link.springer.com/article/10.1007/s10021-001-0101-5
+
+- Building Resilience in Lagoon Social–Ecological Systems: A Local-level Perspective: https://link.springer.com/article/10.1007/s10021-005-0140-4
+
+- Dinâmica de um sistema sócio-ecológico na Ilha de Santa Catarina e percepções sobre mudanças no tempo e no clima:  https://repositorio.ufsc.br/bitstream/handle/123456789/189159/PECO0121-D.pdf?sequence=-1&isAllowed=y
+
+---
+# Mais referências
+
+- **Conceitos, bibliografias, notícias relacionadas à Sistemas sócio-ecológicos** -> <img width="25%" src="https://www.resalliance.org/images/common/RA-Logo.jpg"/> https://www.resalliance.org
+
+- A capital-based framework for assessing coastal and marine social–ecological dynamics and natural resource management: A case study of Penghu archipelago: https://www.sciencedirect.com/science/article/pii/S2212682114000195
