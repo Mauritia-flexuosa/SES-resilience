@@ -262,54 +262,38 @@ class: top, center
 ]
 
 ---
-# Mudanças nas atividades de subsistência
-
-- Como a comunidade da Costa da Lagoa mudou desde a década de 1980 até os dias atuais?  *(no caso, era 2016)*
-
-- Por exemplo...
-
-.center[
-<img width="53%" src="fig/inovação.png"/>
-]
-
----
 # Efeito cascata e feedbacks
 
 - Todos os aspectos percebidos pelas pessoas e as conexões entre as mudanças
 
 .center[
-<img width="68%" src="fig/efeitos cascata.png"/>
+<img width="79%" src="fig/efeitos cascata.png"/>
 ]
 
 ---
 # Quadro com mudanças
 
 .center[
-<img width="88%" src="fig/quadro mudanças.png"/>
+<img width="98%" src="fig/quadro mudanças.png"/>
 ]
 
 ---
 # Percepção de mudanças no tempo e no clima
 ## Índice de extremos climáticos de temperatura
 
-.center[
-<img width="88%" src="fig/Temperatura extremos.png"/>
-]
----
-# Índice de extremos climáticos de precipitação
 
-.center[
-<img width="88%" src="fig/Precipitação extremos.png"/>
-]
+- FishAdapt Conference - Global Conference on Climate Change adaptations for fisheries and acquaculture: http://sdg.iisd.org/events/fishadapt-global-conference-on-climate-change-adaptation-for-fisheries-and-aquaculture/
+
+- Apresentação: https://fishadapt.com/publications/presentations/17-cure.pdf
 
 ---
-# Percepção sobre as mudanças na precipitação e na temperatura
+# Atividade Proposta
 
-- Informantes chave vs outros informantes
+Leia o Capítulo I - [SOCIAL-ECOLOGICAL SYSTEM DYNAMICS: 
+PERCEPTION OF CHANGES AND RESPONSES IN AN 
+ARTISANAL FISHERS’ COMMUNITY IN SOUTHERN 
+BRAZIL]("https://repositorio.ufsc.br/bitstream/handle/123456789/189159/PECO0121-D.pdf?sequence=-1&isAllowed=y") 
 
-.center[ 
- <img width="88%" src="fig/informantes chave.png"/>
-]
 ---
 # Outras referências e leituras complementares
 
