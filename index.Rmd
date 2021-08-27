@@ -154,10 +154,7 @@ Resilience and Stability of Ecological Systems (1973):  https://www.annualreview
 - Duas formas de mudar para um estado alternativo: 1. Impactos pontuais; 2. erosão da resiliência.
 
 .center[
-
-
 <img width="63%" src="https://www.researchgate.net/publication/327634844/figure/fig2/AS:670575961833474@1536889176130/The-theoretical-ball-and-cup-diagram-used-to-depict-ecological-resilience-as-introduced.png"/>
-
 ]
 
 --
@@ -173,8 +170,6 @@ Resilience and Stability of Ecological Systems (1973):  https://www.annualreview
 
 .center[
 <img width="40%" src="https://www.researchgate.net/profile/Zoe-Lindo/publication/276464215/figure/fig1/AS:294598330077185@1447249123209/Engineering-and-Ecological-Resilience-Represented-with-the-Heuristic-Model-of-a-Ball.png"/>
-
-
 ]
 
 ---
@@ -194,8 +189,9 @@ Hirota et al (2011) - Science: https://science.sciencemag.org/content/334/6053/2
 # Exempo de estados de estabilidade mantidos por perturbações
 
 ## Fogo em savannas.
-
-
+.center[
+<img width="70%" src="https://www.researchgate.net/profile/Arie-Staal/publication/282320144/figure/fig2/AS:391509200392202@1470354475658/Relations-between-forest-tree-cover-savanna-tree-cover-fire-and-soil-fertility-These.png"/>
+]
 
 ---
 # Ciclo adaptativo
@@ -356,3 +352,4 @@ e escreva um resumo crítico com até 800 palavras. Incorpore as alterações no
 
 - https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S0959378006000379
 
+- Shallow lakes theory revisited: various alternative regimes driven by climate, nutrients, depth and lake size - https://link.springer.com/article/10.1007/s10750-007-0616-7
