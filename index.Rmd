@@ -277,7 +277,7 @@ class: top, center
 
 - Como mudou o sistema sócio-ecológico (elementos humanos e naturais)
 
-- Percepção sobre as mudanças climáticas
+- Percepção sobre as mudanças climáticas (apresentação à parte)
 
 ]
 
@@ -290,19 +290,20 @@ class: top, center
 ]
 
 ---
+# Quadro com mudanças
+
+.center[
+<img width="98%" src="fig/quadro mudanças.png"/>
+]
+
+
+---
 # Efeito cascata e feedbacks
 
 - Todos os aspectos percebidos pelas pessoas e as conexões entre as mudanças
 
 .center[
 <img width="79%" src="fig/efeitos cascata.png"/>
-]
-
----
-# Quadro com mudanças
-
-.center[
-<img width="98%" src="fig/quadro mudanças.png"/>
 ]
 
 ---
@@ -317,12 +318,11 @@ class: top, center
 ---
 # Atividade Proposta
 
-Leia o Capítulo I - [SOCIAL-ECOLOGICAL SYSTEM DYNAMICS: 
-PERCEPTION OF CHANGES AND RESPONSES IN AN 
-ARTISANAL FISHERS’ COMMUNITY IN SOUTHERN 
-BRAZIL]("https://repositorio.ufsc.br/bitstream/handle/123456789/189159/PECO0121-D.pdf?sequence=-1&isAllowed=y")
+Utilize o *ciclo adaptativo* para descrever a dinâmica de um sistema complexo a sua escolha (sócio-ecológico, ecológico, filosófico, econômico, político, etc). Descreva cada fase do ciclo adaptativo. Fale sobre o que dá identidade a este sistema. Fale sobre as interações (por exemplo práticas de manejo), agentes de mudanças internos e externos, possíveis formas de reorganização e de adaptação, novidades que podem ser incorporadas (como elementos novos ou tecnologias), possíveis estados alternativos e as incertezas associadas à sua dinâmica.
 
-e escreva um resumo crítico com até 800 palavras. Incorpore as alterações no sistema sócio-ecológico da Costa da Lagoa ocorridas no último ano e discuta sobre a resiliência deste sistema.
+.center[
+<img width="65%" src="https://www.resalliance.org/files/key-concepts/Adaptive_Cycle.jpg"/>
+]
 
 ---
 # Outras referências e leituras complementares
