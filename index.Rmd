@@ -162,6 +162,14 @@ Resilience and Stability of Ecological Systems (1973):  https://www.annualreview
 <img width= "30%" src="https://www.researchgate.net/profile/Joy-Mast/publication/255970798/figure/fig1/AS:298000120336394@1448060173639/An-example-of-the-ball-and-cup-heuristic-used-in-resilience-theory-The-top-landscape.png"/>]
 
 ---
+# Indicadores de resiliência
+
+.center[
+<img width= "80%" src="fig/indicators.png"/>]
+
+https://sci-hub.se/https://www.annualreviews.org/doi/10.1146/annurev-ecolsys-112414-054242
+
+---
 # Resiliência da Engenharia *vs* Resiliência Ecológica
 
 - Após uma perturbação, sistemas demoram certo tempo para retornar para seu estado original.
