@@ -103,6 +103,31 @@ class: top, left
 ]
 
 ---
+# Identidade dos sistemas
+
+.center[
+<img width="73%" src="fig/saara.png"/>
+
+<img width="33%" src="https://ichef.bbci.co.uk/news/768/cpsprodpb/959D/production/_112610383_017531205-1.jpg"/>
+<img width="33%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Libya_4985_Tadrart_Acacus_Luca_Galuzzi_2007.jpg/1024px-Libya_4985_Tadrart_Acacus_Luca_Galuzzi_2007.jpg"/>
+
+]
+
+
+---
+# Formas como ocorrem as mudanças
+
+.center[
+<img width="100%" src="fig/formas de mudanças.png"/>
+]
+
+--
+.center[
+<img width="45%" src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10750-007-0616-7/MediaObjects/10750_2007_0616_f1.gif?as=webp"/>
+]
+
+
+---
 
 # Resiliência ecológica
 
@@ -164,6 +189,13 @@ Florestas e savannas são estados alternativos determinados parcialmente pelo re
 Hirota et al (2011) - Science: https://science.sciencemag.org/content/334/6053/232
 
 ]
+
+---
+# Exempo de estados de estabilidade mantidos por perturbações
+
+## Fogo em savannas.
+
+
 
 ---
 # Ciclo adaptativo
@@ -316,6 +348,11 @@ e escreva um resumo crítico com até 800 palavras. Incorpore as alterações no
 
 - **Conceitos, bibliografias, notícias relacionadas à Sistemas sócio-ecológicos** -> <img width="25%" src="https://www.resalliance.org/images/common/RA-Logo.jpg"/> https://www.resalliance.org
 
+- Resilience Thinking: Integrating Resilience, Adaptability and Transformability - https://www.ecologyandsociety.org/vol15/iss4/art20/
+
 - A capital-based framework for assessing coastal and marine social–ecological dynamics and natural resource management: A case study of Penghu archipelago: https://www.sciencedirect.com/science/article/pii/S2212682114000195
 
 - Ecological resilience - In theory and application: https://sci-hub.se/https://www.annualreviews.org/doi/full/10.1146/annurev.ecolsys.31.1.425
+
+- https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S0959378006000379
+
