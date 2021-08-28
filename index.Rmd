@@ -162,14 +162,6 @@ Resilience and Stability of Ecological Systems (1973):  https://www.annualreview
 <img width= "30%" src="https://www.researchgate.net/profile/Joy-Mast/publication/255970798/figure/fig1/AS:298000120336394@1448060173639/An-example-of-the-ball-and-cup-heuristic-used-in-resilience-theory-The-top-landscape.png"/>]
 
 ---
-# Indicadores de resiliência
-
-.center[
-<img width= "80%" src="fig/indicators.png"/>]
-
-https://sci-hub.se/https://www.annualreviews.org/doi/10.1146/annurev-ecolsys-112414-054242
-
----
 # Resiliência da Engenharia *vs* Resiliência Ecológica
 
 - Após uma perturbação, sistemas demoram certo tempo para retornar para seu estado original.
@@ -324,13 +316,24 @@ class: top, center
 - Apresentação: https://fishadapt.com/publications/presentations/17-cure.pdf
 
 ---
-# Atividade Proposta
-
-Utilize o *ciclo adaptativo* para descrever a dinâmica de um sistema complexo a sua escolha (sócio-ecológico, ecológico, filosófico, econômico, político, etc). Descreva cada fase do ciclo adaptativo. Fale sobre o que dá identidade a este sistema. Fale sobre as interações (por exemplo práticas de manejo), agentes de mudanças internos e externos, possíveis formas de reorganização e de adaptação, novidades que podem ser incorporadas (como elementos novos ou tecnologias), possíveis estados alternativos e as incertezas associadas à sua dinâmica.
+# Indicadores de resiliência
 
 .center[
-<img width="65%" src="https://www.resalliance.org/files/key-concepts/Adaptive_Cycle.jpg"/>
+<img width= "80%" src="fig/indicators.png"/>]
+
+https://sci-hub.se/https://www.annualreviews.org/doi/10.1146/annurev-ecolsys-112414-054242
+
+---
+# Atividade Proposta
+
+1. Utilize o *ciclo adaptativo* para descrever a dinâmica de um sistema complexo a sua escolha (sócio-ecológico, ecológico, filosófico, econômico, político, etc). Descreva cada fase do ciclo adaptativo.
+.center[
+<img width="30%" src="https://www.resalliance.org/files/key-concepts/Adaptive_Cycle.jpg"/>
 ]
+
+2. Fale sobre qual variável de estado pode caracterizar um sistema a sua escolha, dar identidade pra ele, como por exemplo os lagos rasos onde a turbidez era a variável de estado: o lago poderia ser transparente ou poderia estar eutrofizado, ou seja, turvo, em outro estado de estabilidade. Fale sobre as interações (por exemplo práticas de manejo) que conferem estabilidade. Escreva também sobre quais as perturbações poderiam fazer esse sistema mudar sua identidade ou colapsar para um estado alternativo de funcionamento (agentes de mudanças internos e externos). Quais as possíveis formas de reorganização e de adaptação, novidades que podem ser incorporadas (como elementos (a)bióticos novos ou tecnologias). Quais estados alternativos existem ou poderiam existir.
+
+.center[*marciobcure@gmail.com*]
 
 ---
 # Outras referências e leituras complementares
