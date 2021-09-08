@@ -354,7 +354,7 @@ https://sci-hub.se/https://www.annualreviews.org/doi/10.1146/annurev-ecolsys-112
  - A variável de estado pode ser descrita de forma qualitativa, mas tb pode ser medida. A turbidez de um rio, por exemplo.
  
 ---
- 
+
 # Para falar de resiliência...
  
  - Para falar de resiliência de algum sistema é necessário identificar o que dá identidade pra esse sistema?
